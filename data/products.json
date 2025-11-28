@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Pastel Hoodie",
+    "description": "Cozy hoodie in soft pastel tones.",
+    "price": "999.00",
+    "image": "/products/hoodie.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Soft Tee",
+    "description": "Lightweight cotton tee for daily wear.",
+    "price": "499.00",
+    "image": "/products/tee.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Summer Dress",
+    "description": "Flowy dress with pastel print.",
+    "price": "1299.00",
+    "image": "/products/dress.jpg"
+  }
+]
