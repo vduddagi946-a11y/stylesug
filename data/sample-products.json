@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "prod_1",
+      "title": "Classic Cotton Shirt",
+      "description": "Soft cotton shirt, regular fit. Color: White.",
+      "handle": "classic-cotton-shirt",
+      "images": ["/sample-images/shirt1.jpg"],
+      "price": "1299.00",
+      "variants": [{"id":"v1","price":"1299.00"}]
+    },
+    {
+      "id": "prod_2",
+      "title": "Modern Denim Jacket",
+      "description": "Structured denim with clean finishes.",
+      "handle": "modern-denim-jacket",
+      "images": ["/sample-images/jacket1.jpg"],
+      "price": "3499.00",
+      "variants": [{"id":"v1","price":"3499.00"}]
+    },
+    {
+      "id": "prod_3",
+      "title": "Slim Chinos",
+      "description": "Tailored chinos, comfortable stretch.",
+      "handle": "slim-chinos",
+      "images": ["/sample-images/chinos1.jpg"],
+      "price": "1999.00",
+      "variants": [{"id":"v1","price":"1999.00"}]
+    }
+  ]
+}
