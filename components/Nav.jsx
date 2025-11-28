@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import { useCart } from '../context/CartContext'
-
 export default function Nav(){
   const { items } = useCart()
   const count = items.reduce((s,i)=> s + i.qty, 0)
@@ -11,8 +10,6 @@ export default function Nav(){
         <div style={{display:'flex',gap:18,alignItems:'center'}}>
           <Link href="/"><a>Home</a></Link>
           <Link href="/shop"><a>Shop</a></Link>
-          <Link href="/men"><a>Men</a></Link>
-          <Link href="/women"><a>Women</a></Link>
           <Link href="/cart"><a className="btn">Cart ({count})</a></Link>
         </div>
       </div>

@@ -1,23 +1,182 @@
 [
   {
-    "id": 1,
-    "title": "Pastel Hoodie",
-    "description": "Cozy hoodie in soft pastel tones.",
+    "id": 101,
+    "title": "Minimal Baseball Cap",
+    "brand": "UrbanEdge",
+    "category": "Caps",
+    "price": "799.00",
+    "image": "/products/cap1.jpg",
+    "description": "Cotton baseball cap with embroidered logo. Unisex."
+  },
+  {
+    "id": 102,
+    "title": "Pastel Dad Cap",
+    "brand": "SoftTone",
+    "category": "Caps",
+    "price": "699.00",
+    "image": "/products/cap2.jpg",
+    "description": "Soft washed cotton cap, gentle pastel shades."
+  },
+  {
+    "id": 103,
+    "title": "Premium Leather Strap Bracelet",
+    "brand": "Forge",
+    "category": "Bracelets",
+    "price": "1499.00",
+    "image": "/products/bracelet1.jpg",
+    "description": "Genuine leather with steel clasp. Men & women."
+  },
+  {
+    "id": 104,
+    "title": "Silver Curb Chain (45cm)",
+    "brand": "LuxeLink",
+    "category": "Chains",
+    "price": "2499.00",
+    "image": "/products/chain1.jpg",
+    "description": "Polished sterling finish curb chain, premium weight."
+  },
+  {
+    "id": 105,
+    "title": "Gold-Plated Minimal Ring",
+    "brand": "Aura",
+    "category": "Rings",
+    "price": "1199.00",
+    "image": "/products/ring1.jpg",
+    "description": "Gold-plated band, hypoallergenic."
+  },
+  {
+    "id": 106,
+    "title": "Chunky Street Chain",
+    "brand": "Metro",
+    "category": "Chains",
+    "price": "1799.00",
+    "image": "/products/chain2.jpg",
+    "description": "Bold statement chain with matte finish."
+  },
+  {
+    "id": 107,
+    "title": "Pearl Hoop Earrings",
+    "brand": "\u00c9lan",
+    "category": "Earrings",
+    "price": "1399.00",
+    "image": "/products/earring1.jpg",
+    "description": "Delicate pearl hoops for women."
+  },
+  {
+    "id": 108,
+    "title": "Minimal Hoop Earrings (Silver)",
+    "brand": "\u00c9lan",
+    "category": "Earrings",
     "price": "999.00",
-    "image": "/products/hoodie.jpg"
+    "image": "/products/earring2.jpg",
+    "description": "Classic silver hoops, everyday wear."
   },
   {
-    "id": 2,
-    "title": "Soft Tee",
-    "description": "Lightweight cotton tee for daily wear.",
-    "price": "499.00",
-    "image": "/products/tee.jpg"
+    "id": 109,
+    "title": "Sunshield Sunglasses",
+    "brand": "ShadeCo",
+    "category": "Sunglasses",
+    "price": "2199.00",
+    "image": "/products/sunglass1.jpg",
+    "description": "UV400 protection with gradient lenses."
   },
   {
-    "id": 3,
-    "title": "Summer Dress",
-    "description": "Flowy dress with pastel print.",
+    "id": 110,
+    "title": "Aviator Sunglasses (Gold)",
+    "brand": "ShadeCo",
+    "category": "Sunglasses",
+    "price": "2499.00",
+    "image": "/products/sunglass2.jpg",
+    "description": "Premium aviator with metal frame."
+  },
+  {
+    "id": 111,
+    "title": "Statement Cocktail Ring",
+    "brand": "Glam",
+    "category": "Rings",
+    "price": "1999.00",
+    "image": "/products/ring2.jpg",
+    "description": "Bold cocktail ring with crystal accent."
+  },
+  {
+    "id": 112,
+    "title": "Adjustable Sling Bag",
+    "brand": "CarryAll",
+    "category": "Bags",
+    "price": "2599.00",
+    "image": "/products/bag1.jpg",
+    "description": "Compact sling bag with premium faux leather."
+  },
+  {
+    "id": 113,
+    "title": "Canvas Tote (Printed)",
+    "brand": "UrbanEdge",
+    "category": "Bags",
     "price": "1299.00",
-    "image": "/products/dress.jpg"
+    "image": "/products/bag2.jpg",
+    "description": "Durable canvas tote with statement print."
+  },
+  {
+    "id": 114,
+    "title": "Layered Necklace Set",
+    "brand": "LuxeLink",
+    "category": "Necklaces",
+    "price": "1899.00",
+    "image": "/products/necklace1.jpg",
+    "description": "Two-piece layered necklaces with mixed metals."
+  },
+  {
+    "id": 115,
+    "title": "Beaded Bracelet Set",
+    "brand": "SoftTone",
+    "category": "Bracelets",
+    "price": "899.00",
+    "image": "/products/bracelet2.jpg",
+    "description": "Stackable beaded bracelets \u2014 set of 3."
+  },
+  {
+    "id": 116,
+    "title": "Minimal Leather Belt",
+    "brand": "Forge",
+    "category": "Belts",
+    "price": "1599.00",
+    "image": "/products/belt1.jpg",
+    "description": "Full-grain leather belt with matte buckle."
+  },
+  {
+    "id": 117,
+    "title": "Statement Bucket Hat",
+    "brand": "Metro",
+    "category": "Hats",
+    "price": "999.00",
+    "image": "/products/hat1.jpg",
+    "description": "Trend-forward bucket hat, unisex."
+  },
+  {
+    "id": 118,
+    "title": "Gold-Plated Pendant",
+    "brand": "Aura",
+    "category": "Necklaces",
+    "price": "1699.00",
+    "image": "/products/necklace2.jpg",
+    "description": "Minimal pendant with polished finish."
+  },
+  {
+    "id": 119,
+    "title": "Delicate Anklet",
+    "brand": "\u00c9lan",
+    "category": "Anklets",
+    "price": "699.00",
+    "image": "/products/anklet1.jpg",
+    "description": "Simple anklet with tiny bead details."
+  },
+  {
+    "id": 120,
+    "title": "Leather Card Holder",
+    "brand": "CarryAll",
+    "category": "Wallets",
+    "price": "899.00",
+    "image": "/products/wallet1.jpg",
+    "description": "Slim leather card holder with 4 slots."
   }
 ]
